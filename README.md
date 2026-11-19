@@ -1,2 +1,2 @@
 # my-website
-my first HTML, CSS and JAVASCRIPT website
+my-first-HTML,CSS-and-JAVASCRIPT-website
